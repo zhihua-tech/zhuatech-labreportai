@@ -1,5 +1,7 @@
 # ZhuaTech Lab Report Education｜知华科技血常规报告辅助解读系统
 
+[简体中文](README.md) | [English](README.en.md)
+
 ZhuaTech Lab Report Education 是上海如静知华信息科技有限公司面向“健康教育辅助”场景推出的社区源码项目。用于个人学习的血常规指标整理与健康教育演示系统，不提供诊断。以健康教育方式解释指标含义，并明确提示就医边界。
 
 [知华科技官网](https://www.zhuatech.cn/) · Java 包名 `cn.zhuatech.labreportai` · API `POST /api/labreportai/run`
